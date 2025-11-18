@@ -112,7 +112,6 @@ python -m venv .venv
 # Windows: .venv\Scripts\activate
 # Mac/Linux: source .venv/bin/activate
 ```
-
 3. Install Dependencies
 
 pip install eel opencv-python opencv-contrib-python SpeechRecognition pyttsx3 requests pywhatkit wikipedia
