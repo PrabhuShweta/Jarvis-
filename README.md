@@ -104,13 +104,14 @@ git clone [https://github.com/PrabhuShweta/Jarvis-.git](https://github.com/Prabh
 cd Jarvis-
 
 
-2. Create Virtual Environment
+### 2. Create Virtual Environment
 
+```bash
 python -m venv .venv
 # Activate:
 # Windows: .venv\Scripts\activate
 # Mac/Linux: source .venv/bin/activate
-
+```
 
 3. Install Dependencies
 
